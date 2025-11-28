@@ -26,7 +26,7 @@ const Header = () => {
           {/* LOGO SECTION */}
           <Link to={"/"}>
             <div className="flex-shrink-0 flex items-center gap-2 cursor-pointer">
-              <img src={logo} alt="logo" className='h-16' />
+              <img src={logo} alt="logo" className='h-10' />
             </div>
           </Link>
           {/* DESKTOP NAVIGATION */}

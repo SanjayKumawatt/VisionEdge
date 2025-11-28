@@ -15,7 +15,7 @@ const Footer = () => {
           <div className="space-y-6">
             {/* Logo Section */}
             <Link to="/" className="flex items-center gap-3 group">
-             <img src={logo} className='h-18' alt="" />
+             <img src={logo} className='h-10' alt="" />
             </Link>
 
             <p className="text-slate-400 text-sm leading-relaxed pr-4">
