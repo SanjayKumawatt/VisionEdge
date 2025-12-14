@@ -16,7 +16,7 @@ const HeroSection = () => {
               <span className="text-blue-600"> Excellence</span>
             </h1>
             <p className="mt-6 text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto md:mx-0">
-              We deliver superior web design and development services that are both high-quality and budget-friendly. We build user-centric, impactful websites customized to achieve your goals.
+              We are building a cloud-native software platfrom that helps businesses launch, manage, and scale their digital presence using secure and scalable infrastructure. We build user-centric, impactful websites customized to achieve your goals.
             </p>
 
             {/* Buttons Container */}

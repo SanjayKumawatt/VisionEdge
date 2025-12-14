@@ -14,7 +14,7 @@ const WhyChooseUs = () => {
     {
       id: 1,
       title: "Experienced & Reliable",
-      description: "This is the primary consideration you should have while selecting a business. Our team provides highly reliable web development and design services for both domestic and international projects.",
+      description: "This is the primary consideration you should have while selecting a business. Our team provides highly reliable web development and design services for both designed for rapid startup growth.",
       icon: <CheckCircle2 size={28} />,
       colorClass: "bg-blue-100 text-blue-600"
     },
@@ -27,7 +27,7 @@ const WhyChooseUs = () => {
     },
     {
       id: 3,
-      title: "Best Client Support System",
+      title: "Secure Infrastructure",
       description: "Many of our clients are associated with us for a long time as we always meet their expectations by delivering quality work. Our experts always respond to client queries on time.",
       icon: <ShieldCheck size={28} />,
       colorClass: "bg-green-100 text-green-600"
@@ -41,7 +41,7 @@ const WhyChooseUs = () => {
     },
     {
       id: 5,
-      title: "Cost-Effective Services",
+      title: "Scalable Cloud Architecture",
       description: "We don't believe in expensive services packages as we understand that every business owner has their own targets, requirements and budget so we offer cost-effective customized solutions.",
       icon: <BadgeDollarSign size={28} />,
       colorClass: "bg-emerald-100 text-emerald-600"

@@ -12,7 +12,7 @@ const Home = () => {
       <ServicesSection/>
       <AboutSection/>
       <WhyChooseUs/>
-      <ProcessAndFaq/>
+      {/* <ProcessAndFaq/> */}
     </div>
   )
 }

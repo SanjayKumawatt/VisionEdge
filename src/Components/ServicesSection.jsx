@@ -14,42 +14,42 @@ const ServicesSection = () => {
   const services = [
     {
       id: 1,
-      title: "WEB DEVELOPMENT",
+      title: "Cloud-Based Website Builder",
       description: "We offer end-to-end web solutions that help your business to grow effectively and sustainably.",
       icon: <AppWindow size={32} />,
       path: "/services/web-development" // Yahan path add kiya
     },
     {
       id: 2,
-      title: "WEB DESIGN",
+      title: "Pre-Built UI Templates",
       description: "We craft user-friendly website designs that prioritize quality content, visual appeal, and conversion rate optimization.",
       icon: <Cpu size={32} />,
       path: "/services/web-design"
     },
     {
       id: 3,
-      title: "LOGO DESIGN SERVICES",
+      title: "Brand Asset Generator",
       description: "We create unique and scalable logos that establish a strong brand identity and memorable visual presence for your business.",
       icon: <PenTool size={32} />,
       path: "/services/logo-design-services"
     },
     {
       id: 4,
-      title: "CONTENT MANAGEMENT SYSTEM",
+      title: "Headless CMS Platform",
       description: "Get full control over your website content with custom CMS development, migration, and integration services (e.g., WordPress, Drupal).",
       icon: <Server size={32} />,
       path: "/services/content-management-system"
     },
     {
       id: 5,
-      title: "ECOMMERCE DEVELOPMENT",
+      title: "SaaS E-commerce Engine ",
       description: "Boost your business profits and sell your products easily with secure, scalable platforms, and seamless management ease.",
       icon: <ShoppingCart size={32} />,
       path: "/services/ecommerce-development"
     },
     {
       id: 6,
-      title: "MOBILE APPLICATION DEVELOPMENT",
+      title: "Cross-Platform App Framwork",
       description: "We develop robust mobile applications for the users for the best product experience across both Android and iOS platforms.",
       icon: <Smartphone size={32} />,
       path: "/services/mobile-application-development"
@@ -63,7 +63,7 @@ const ServicesSection = () => {
         {/* HEADER SECTION */}
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">
-            Our <span className="text-blue-600">Services</span>
+            Our <span className="text-blue-600">Platform Capabilities</span>
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto text-sm md:text-base leading-relaxed">
             We are a trusted company for cutting-edge web development and innovative digital solutions.

@@ -34,7 +34,7 @@ const AboutSection = () => {
               </p>
 
               <p>
-                We have developed websites for many start-ups, small businesses, and well-established businesses by using our expertise in HTML, HTML5, DHTML, XHTML, CSS, Core PHP, Cake PHP, CodeIgniter, Laravel, Joomla, Drupal, WordPress, PrestaShop, and Database MySQL, MongoDB, Arango.
+                We are an early-stage startup focused on building our own cloud-native product to solve real-world digital infrastructure challenges.
               </p>
 
               <p>
